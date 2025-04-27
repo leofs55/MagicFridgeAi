@@ -1,0 +1,32 @@
+package dev.lest.MagicFridgeAI.Enums;
+
+public enum FoodCategory {
+    CEREAIS,
+    TUBERCULOS,
+    RAIZES,
+    LEGUMINOSAS,
+    VERDURAS,
+    LEGUMES,
+    FRUTAS,
+    CARNES,
+    OVOS,
+    PEIXES,
+    FRUTOS_DO_MAR,
+    LEITES_E_DERIVADOS,
+    OLEOS,
+    GORDURAS,
+    ACUCARES,
+    DOCES,
+    BEBIDAS,
+    CASTANHAS,
+    NOZES,
+    SEMENTES,
+    ULTRAPROCESSADOS,
+    CONDIMENTOS,
+    TEMPEROS,
+    PANIFICACAO,
+    MASSAS,
+    INDUSTRIALIZADOS,
+    SEMI_PRONTOS;
+
+}
